@@ -1,4 +1,4 @@
-# Solar Challenge – Week 1
+![image](https://github.com/user-attachments/assets/982a1f86-d63f-4c10-b42d-b5b0a8d4b446)# Solar Challenge – Week 1
 
 This repository is part of the Solar Challenge project. It contains the initial setup and project structure, including virtual environment configuration, CI integration, and folder scaffolding.
 
@@ -26,3 +26,6 @@ env\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+![image](https://github.com/user-attachments/assets/8ea2d18c-f317-4307-a573-59ebaab73db0)
+
