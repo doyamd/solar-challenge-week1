@@ -27,5 +27,4 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-![image](https://github.com/user-attachments/assets/8ea2d18c-f317-4307-a573-59ebaab73db0)
 
